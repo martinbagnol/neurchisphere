@@ -246,9 +246,15 @@ table td { border: 1px solid #fff5ec; }
 
 .post-content .main-post-content .footnotes { grid-column: 1 / 4; margin-bottom: 0; }
 
-.post-content .main-post-content .footnotes * { font-size: 12px; color: #ff1a80; }
+.post-content .main-post-content .footnotes * { font-size: 12px; color: #230d57; }
 
 .post-content .main-post-content .footnotes p { color: #230d57; }
+
+.footnotes { grid-column: 1 / 4; margin-bottom: 0; }
+
+.footnotes * { font-size: 12px; color: #230d57; }
+
+.footnotes p { color: #230d57; }
 
 #safari--cover {margin-bottom: 60px; display: flex; align-items: center; justify-content: center; vertical-align: middle; flex-wrap: wrap; color: #FFFFFF; }
 
