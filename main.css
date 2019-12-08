@@ -180,7 +180,7 @@ table td { border: 1px solid #fff5ec; }
 
 .main-post-content p { margin-bottom: 40px; }
 
-@media screen and (max-width: 768px) { .post-content .main-post-content { grid-column: 1 / 7; padding-top: 0; } .main-post-content .lexique .illustration {width: 90%; margin-left: 5%;} }
+@media screen and (max-width: 768px) { .post-content .main-post-content { grid-column: 1 / 7; padding-top: 0; } .main-post-content .lexique .illustration {width: 90%; margin-left: 5%;} .main-post-content .lexique .illustration .vertical {max-width: 80%; padding-bottom: 10px;} }
 
 .post-content .main-post-content p { margin-bottom: 40px; }
 
