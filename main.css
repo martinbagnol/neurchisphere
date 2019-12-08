@@ -109,7 +109,7 @@ table td { border: 1px solid #fff5ec; }
   .post-title .p-name { margin-top: 0;}}
 
 /** Site footer */
-.site-footer { padding-top: 50px;}
+.site-footer { padding-top: 50px; padding-bottom: 20px;}
 
 .footer-heading { font-size: 16.875px; margin-bottom: 15px; }
 
