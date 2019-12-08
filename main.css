@@ -14,6 +14,8 @@ body { font: normal 17px/1.5 "Duospace", -apple-system, BlinkMacSystemFont, "Seg
 /** Set `margin-bottom` to maintain vertical rhythm */
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, *ul, ol, dl, figure, .highlight { margin-bottom: 30px; }
 
+p { text-align: justify; }
+
 /** `main` element */
 main { display: block; }
 
